@@ -55,7 +55,7 @@ const addTwo=function(num){
 
 console.log(addTwo(6))
 
-// exmple like this 
+// example like this 
  
 console.log(addnum(5)) // function calling declearation se pahele kiya hai 
 function addnum(num){
@@ -63,10 +63,8 @@ function addnum(num){
 }
 //console.log(addnum(5)) // function declearation se pahele ya baad me v kiya ja sakta hai 
 
-
 const addnum1=function(num){
     return num + 2
 
 }
-
 console.log(addnum1(5)) // function calling after declearation 
