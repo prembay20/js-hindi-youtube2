@@ -1,6 +1,6 @@
  // Types of dataTypes
 
- // 1. primitive  data types 
+ // 1. primitive  data types (stack memory)
     // 7 types : string, Number, Boolean,  Null, undefined, Symbol, BigInt
 
     let str="hello world"
@@ -37,7 +37,7 @@
     
 
 
- // 2. Non primitive data type (Reference)
+ // 2. Non primitive data type (Reference) and (cheap memory)
  
  // Array, Objects, function
 
