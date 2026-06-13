@@ -24,16 +24,16 @@ console.log(arr[2])
 const arr3=["free fire","pubg","call of duty"]
 
 // pop and push methods
-arr3.push("game")
+arr3.push("game")// new value ko add karta hai end me
 console.log(arr3)
-arr3.pop() 
+arr3.pop() // remove karta value end se
 console.log(arr3)
 
 // shift and unshift methods
-arr3.shift()
+arr3.shift()//remove from first
 console.log(arr3)
 arr3.unshift("hello")
-console.log(arr3)
+console.log(arr3)//add from first
 
 //includes and index methods
 
