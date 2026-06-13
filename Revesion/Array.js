@@ -38,7 +38,7 @@ console.log(arr3)//add from first
 //includes and index methods
 
 // console.log(arr3.includes(9))//value match nhi hoga tab ye false bole agar value match ho jaiyga tab true 
-// console.log(arr3.indexOf(9))// index find nhi hogo too -1 return ksrta hai 
+// console.log(arr3.indexOf(9))// index find nhi hogo too -1 return karta hai 
 
 console.log(arr3.includes("hello"))
 console.log(arr3.indexOf("hello"))
