@@ -35,5 +35,34 @@ const myCoding =[
 ]
 
 myCoding.forEach( (item) => {
-    console.log(item.languageName)
+    // console.log(item.languageName)
+    console.log(item.languageFileName)
+
+})
+
+const user_data=[
+    {
+        name:"ram",
+        class:"12",
+        course:"computer"
+    },
+      {
+        name:"shyam",
+        class:"12",
+        course:"js"
+    },
+      {
+        name:"sita",
+        class:"12",
+        course:"python"
+    },
+      {
+        name:"sam",
+        class:"12",
+        course:"web devlopment"
+    }
+]
+
+user_data.forEach((user_value) => {
+    console.log(user_value.course)
 })
